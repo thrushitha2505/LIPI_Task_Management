@@ -1,0 +1,5 @@
+DB_NAME=task_management
+DB_USER=postgres
+DB_PASSWORD=password
+DB_HOST=localhost
+PORT=3000
